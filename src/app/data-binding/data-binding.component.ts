@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class DataBindingComponent implements OnInit {
 
-  username: string = "myname"
+  username: string = ""
 
   constructor() { }
 
