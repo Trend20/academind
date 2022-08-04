@@ -8,7 +8,6 @@ import { Component, OnInit } from '@angular/core';
 export class DataBindingComponent implements OnInit {
 
   username: string = "myname"
-  isEmpty = false;
 
   constructor() { }
 
